@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+#logout {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.shadow-danger:focus {
+    box-shadow: 0 0 0 0.3rem rgba(167, 40, 40, 0.25);
+}
+
+.btn-close {
+    height: inherit !important;
+    padding: 0 10px;
+    border: 1px solid grey;
+    border-left: none;
+}

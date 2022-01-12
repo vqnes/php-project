@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+#logout {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+#btn-add {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
